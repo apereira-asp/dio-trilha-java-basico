@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     Iphone7 <|-- ReprodutorMusical
     Iphone7 <|-- AparelhoTelefonico
